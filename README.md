@@ -1,0 +1,2 @@
+# tazor-wallet
+testnet
